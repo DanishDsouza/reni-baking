@@ -24,7 +24,7 @@
 }
 
 .logo{
-    width: 135px;
+    width: 150px;
     cursor: pointer;
     
 }
@@ -48,7 +48,7 @@ nav ul li{
 
 nav ul li a{
     text-decoration: none;
-    color: rgb(15, 15, 15);
+    color: rgb(14, 12, 12);
     font-size: 3vh;
 }
 
@@ -62,7 +62,7 @@ nav ul li a{
 
 .content p {
     font-size: 20px;
-    color: #6a7199;
+    color: #505052;
 }
 
 .content{
@@ -110,7 +110,7 @@ nav ul li a{
 
 .social-links a{
     text-decoration: none;
-    color: rgb(108, 108, 163);
+    color: rgb(0, 0, 0);
     padding-right: 22px;
     font-size: 20px;
 
@@ -136,7 +136,7 @@ nav ul li a{
 }
 .about-content p {
     font-size: 20px;
-    color: #6a7199;
+    color: #6a9985;
     margin-top: 24px;
     margin-bottom: 15px;
 }
